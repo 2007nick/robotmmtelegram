@@ -1,0 +1,15 @@
+Digite o Comando abaixo: 
+
+termux-setup-storage
+
+
+após isso dê Permitir
+
+depois Digite:
+cd /sdcard/download/darkjfree
+
+
+e depois:
+bash install.sh
+
+Caso der Erro na Instalação, Fecha o Termux e Limpa os Dados do Termux , ou Desinstala o Termux e Instala de Novo

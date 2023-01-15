@@ -1,0 +1,38 @@
+vá no MTManager e Adicione um Numero 
+no arquivo "phone.csv" e Salve
+após isso para Logar a Conta Digite:
+python login.py
+
+após isso vc vai Receber o Código do Telegram
+e vai logar sua conta no bot.
+
+
+depois entre no seu Grupo e em outros Grupos 
+que vc quer membros pelo Telegram/Telegraph
+após isso volte ao bot e digite:
+python export.py
+
+escolha o Grupo que quer
+Extrair Membros Digitando o Numero da Escolha
+
+
+após ter Extraido Membros digite:
+python adder.py
+
+agora escolha seu Grupo ou 
+outro Grupo diferente para Adicionar Membros.
+Digite 1 para Adicionar pelo Nome de Usuario
+ou Digite 2 para Adicionar pelo ID do Usuario
+
+Caso o Bot de FloodWaitError ou PeerFloodError
+pare o Bot clicando em CTRL+C do teclado do Termux
+e Coloque outra numero no arquivo no MTManager "phone.csv" 
+
+
+quando trocar o Numero do Telegram se vc quiser
+add membros do mesmo Grupo veja o Nome que parou
+no MTManager no arquivo "members.csv" e Busca o Nome
+e Remove a linha atual e todas linhas anteriores 
+a partir da Linha numero 2
+para o bot nao tentar adicionar membros 
+que ja foram adicionados no Grupo.
